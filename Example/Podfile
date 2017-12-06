@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LYMAPIsKit_Example' do
+  pod 'LYMAPIsKit', :path => '../'
+
+  target 'LYMAPIsKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
