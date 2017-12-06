@@ -1,0 +1,27 @@
+{
+  "name": "LYMAPIsKit",
+  "version": "0.1.0",
+  "summary": "A short description of LYMAPIsKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/linyoumu/LYMAPIsKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "linyoumu": "848516118@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/linyoumu/LYMAPIsKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LYMAPIsKit/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

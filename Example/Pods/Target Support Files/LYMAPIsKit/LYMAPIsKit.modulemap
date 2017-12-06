@@ -1,0 +1,6 @@
+framework module LYMAPIsKit {
+  umbrella header "LYMAPIsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

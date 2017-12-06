@@ -1,0 +1,6 @@
+framework module Pods_LYMAPIsKit_Tests {
+  umbrella header "Pods-LYMAPIsKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
